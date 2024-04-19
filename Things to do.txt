@@ -1,0 +1,11 @@
+Things to do
+
+
+Today:
+    - Record updates
+    - Review game play
+    - Brainstorm def functions
+
+Tomorrow:
+    - Better ui
+    - Faster Recognition
